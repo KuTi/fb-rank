@@ -1,5 +1,4 @@
 #  Display facebook friends ranking scocer
-======
 
 Find your Facebook Friends Ranking Score
 
